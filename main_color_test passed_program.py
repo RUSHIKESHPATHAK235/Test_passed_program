@@ -1,0 +1,21 @@
+import colorama
+import time
+from colorama import Fore, Back, Style
+colorama.init()
+print(Fore.GREEN)
+time.sleep(0.5)
+print("✔ Test passed 1")
+time.sleep(0.5)
+print("✔ Test passed 2")
+time.sleep(0.5)
+print("✔ Test passed 3")
+time.sleep(0.5)
+print("✔ Test passed 4")
+time.sleep(0.5)
+print("✔ Test passed 5")
+time.sleep(0.5)
+print("✔ Test passed 6")
+time.sleep(0.5)
+print("✔ Test passed 7")
+time.sleep(0.5)
+print("✔ Test passed 8")
